@@ -177,6 +177,6 @@ namespace Lab3
             }
             return matrix;
         }
-        
+
     }
 }
